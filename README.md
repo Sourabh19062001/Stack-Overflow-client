@@ -1,7 +1,10 @@
-# Null Class Internship Report
+# Null Class Stack Overflow Internship Report
 
 ## Introduction
 This is a brief report on the project assigned to me during my internship 4 months ago. During the internship, I was tasked with completing my training on the MERN stack by cloning the Stack Overflow website. After completion, I was assigned nine tasks, out of which I was required to complete at least one to successfully finish my internship. This report summarizes the details of the project and the task I completed.
+
+## Objective
+To gain real-world experience, mentorship, and the opportunity to apply knowledge in practical situations and enhace my skills.
 
 ## Task Completed
 **Add "Forgot Password" Option**: Create a page and route to reset the password using email or phone number.
@@ -28,7 +31,6 @@ This is a brief report on the project assigned to me during my internship 4 mont
   - Redux
   - React-Router-Dom-V6
   - Material UI Icons
-  - React Simple Chatbot
 
 - **Backend**:
   - Node.js
@@ -37,9 +39,58 @@ This is a brief report on the project assigned to me during my internship 4 mont
   - Mongoose
 
 - **Database**:
-  - MongoDB Atlas/Compass
+  - MongoDB Atlas
 
-## Images
+## Project screenshots
+
+1. **Homepage**
+
+![homepage](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/homepage.png)
+
+
+2. **Login page**
+
+![login](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/login.png)
+
+
+3. **Reset password page**
+
+![resetpage](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/resetpage.png)
+
+
+4. **Reset password by OTP verification**
+
+![reset_with_otp](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/reset_with_otp.png)
+
+
+5. **Logged in homepage**
+
+![logged_in](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/logged_in.png)
+
+
+6. **Ask question page**
+
+![ask_question](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/ask_question.png)
+
+
+7. **Tags page**
+
+![tags](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/tags.png)
+
+
+8. **Users page**
+
+![users](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/users.png)
+
+
+9. **User profile page**
+
+![user_profiles_page](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/user_profiles_page.png)
+
+
+10. **Sign Up page**
+
+![signup](https://github.com/Sourabh19062001/Project_screenshots/blob/main/project_screenshots/signup.png)
 
 
 ## Link
